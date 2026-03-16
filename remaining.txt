@@ -1,0 +1,4 @@
+. permutation
+. leetcode of the day wala 
+. ek vo krwaya tha uska second wala jismai unlimitied baar use kr skte the 
+. sheets given 
